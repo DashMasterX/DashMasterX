@@ -9,7 +9,7 @@ Construindo projetos web, aprendendo na prática e evoluindo a cada linha de có
 <a href="https://github.com/DashMasterX">
 <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=ffffff"/>
 </a>
-<a href="https://www.youtube.com/@FEL1PIRO">
+<a href="https://www.youtube.com">
 <img src="https://img.shields.io/badge/YouTube-111111?style=flat-square&logo=youtube&logoColor=ffffff"/>
 </a></div>---
 
